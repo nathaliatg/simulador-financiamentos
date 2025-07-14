@@ -1,0 +1,7 @@
+Valor Imóvel;Valor Financiamento;Taxa Juros Anual (%);Prazo (anos);Atributos Específicos
+500000,00;505000,00;1,00;30;Área Construída: 100,00 m²;Área do Terreno: 150,00 m²
+300000,00;322500,00;7,50;20;Área Construída: 120,00 m²;Área do Terreno: 200,00 m²
+250000,00;270000,00;8,00;15;Área Construída: 100,00 m²;Área do Terreno: 180,00 m²
+400000,00;715750,21;6,50;20;Vagas Garagem: 2;Andar: 5
+350000,00;676516,47;6,00;25;Vagas Garagem: 1;Andar: 10
+150000,00;154147,50;9,00;10;Tipo de Zona: Residencial
